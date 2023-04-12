@@ -7,4 +7,8 @@
     <RootNamespace>dotnet_core_6</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\Data" />
+  </ItemGroup>
+
 </Project>
